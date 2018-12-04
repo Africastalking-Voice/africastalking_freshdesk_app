@@ -1,0 +1,18 @@
+{
+  "platform-version": "2.0",
+  "product": {
+    "freshdesk": {
+      "location": {
+        "ticket_sidebar": {
+          "url": "template.html",
+          "icon": "icon.svg"
+        }
+      }
+    }
+  },
+  "dependencies":{},
+  "whitelisted-domains": [
+    "https://www.google.com",
+    "https://<%= iparam.queuer_application_url %>"
+  ]
+}

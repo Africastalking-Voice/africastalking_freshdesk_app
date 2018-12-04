@@ -1,0 +1,33 @@
+{
+  "sip_number": {
+    "display_name": "Africastalking SIP Number",
+    "description": "Please enter your Africa's Talking SIP number (Eg.+test.number@ke.sip.africastalking.com)",
+    "type": "text",
+    "required": true
+  },
+  "sip_password": {
+    "display_name": "Africastalking SIP Password",
+    "description": "Please enter your Africa's Talking SIP number (Eg.+test.number@ke.sip.africastalking.com)",
+    "type": "text",
+    "required": true
+  },
+  "user_name": {
+    "display_name": "Africastalking Application User Name",
+    "description": "Please enter your Africa's Talking application user name.",
+    "type": "text",
+    "required": true
+  },
+  "api_key": {
+    "display_name": "Africastalking Application API Key",
+    "description": "Please enter your Africa's Talking API key",
+    "type": "text",
+    "secure": true,
+    "required": true
+  },
+  "queuer_application_url": {
+    "display_name": "Client Queuer Application URL",
+    "description": "Please enter the URL to your queueing application",
+    "type": "text",
+    "required": true
+  }
+}

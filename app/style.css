@@ -1,0 +1,8 @@
+.logo {
+  background: url('africastalking_logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  vertical-align: center;
+  height: 45px;
+  margin-top: 10px;
+}
