@@ -1,7 +1,7 @@
 {
-  "sip_number": "karsan.test@ke.sip.africastalking.com",
-  "sip_password": "DOPx_fa2fcc9b81",
-  "user_name": "richard_karsan",
-  "api_key": "56650344931fc960b2fdcc1dfcfbadb8c942b75ab66c193ae6b3abb706306529",
-  "queuer_application_url": "karsan.ngrok.io"
+  "sip_number": "",
+  "sip_password": "",
+  "user_name": "",
+  "api_key": "",
+  "queuer_application_url": ""
 }
